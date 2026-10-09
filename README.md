@@ -8,9 +8,10 @@ Portfolio and contact: [drreginaldfinley.com](https://drreginaldfinley.com)
 
 | Project | What it does |
 |---|---|
+| [reachy-aiden](https://github.com/reijinarudo/reachy-aiden) | Turns a Reachy Mini Wireless into a voice companion with its own persona, long-term memory, and extra tools, running on the robot plus cloud voice models. Switch the backend between Hugging Face, OpenAI, and Gemini with one command; a boot-time guard restores the changes after Pollen updates. |
 | [reachy-rose](https://github.com/reijinarudo/reachy-rose) | A Reachy Mini robot whose speech recognition, language model, and voice all run on a Mac mini at home, with no cloud service in the conversation. Includes a guide to what worked and what failed while getting a local model to run at conversational speed. [Demo video](https://youtu.be/Es0EJx5NEdE). |
 
-A second Reachy Mini, Aiden, runs on a cloud backend; that repository is in preparation.
+Aiden and Rose are siblings: the same robot, one on cloud voice models and one fully local.
 
 ## Voice assistants
 
