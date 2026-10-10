@@ -17,7 +17,7 @@ Aiden and Rose are siblings: the same robot, one on cloud voice models and one f
 
 | Project | What it does |
 |---|---|
-| [project-aion](https://github.com/reijinarudo/project-aion) | A talking 3D desktop avatar for Windows. OpenAI realtime voice, lip sync through VMagicMirror, Google Calendar by voice, and a plain-text memory file. Comes with a guide to building your own character. |
+| [project-aion](https://github.com/reijinarudo/project-aion) | A talking 3D desktop avatar for Windows. OpenAI realtime voice, lip sync through VMagicMirror, Google Calendar by voice, and a plain-text memory file. Comes with a guide to building your own character. [Demo video](https://youtu.be/dExOrEA55wY). |
 | [instructional-assistant](https://github.com/reijinarudo/instructional-assistant) | A one-button Windows app that listens to a live class and answers spoken questions out loud, so an instructor can get a short answer mid-lecture without stopping to type. Ships with two teaching profiles. |
 | [local-grading-assistant](https://github.com/reijinarudo/local-grading-assistant) | A private AI assistant and grading toolkit that runs on one computer you own. Built so student work never leaves local hardware. |
 
